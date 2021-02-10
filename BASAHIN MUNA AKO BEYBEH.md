@@ -1,4 +1,4 @@
-Bago nyo irun ang file sa inyong device, kailangan muna kayo ay may database at table sa inyong localhost
+Bago nyo irun ang file sa inyong device, kailangan muna kayo ay may database at table sa inyong localhost idownload nyo nalang yung tbl_account tapos iimport nyo nalang after nyo magcreate ng SQL
 Di ako sure kung XAMP or WAMP ang inyong gamit kaya modify nyo muna yung sa account-register php
 
 Required name of Database into your localhost: db_hugotees
